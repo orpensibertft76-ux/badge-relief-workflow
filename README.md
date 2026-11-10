@@ -2,6 +2,7 @@
 
 把班徽、校徽、Logo 或插画做成有真实凸起的浅浮雕，也可以先出效果图确认层次。
 
+- [工具链与运行步骤](TOOLCHAIN.md) 说明复现班徽白模需要安装什么，以及哪些工具按需使用。
 - [SKILL.md](SKILL.md) 说明如何定高低、做灰度高度图、检查白模和导出 STL。
 - [prepare_height.py](scripts/prepare_height.py) 将已确认高低关系的灰度图去噪和平滑，输出浮点高度数据和 16 位 PNG。
 
